@@ -1,0 +1,9 @@
+.card {
+  position: relative;
+  border-radius: 10px;
+  max-width: 282px;
+  background: #fff;
+  color: #000;
+  list-style-type: none;
+  margin: 0 auto;
+}

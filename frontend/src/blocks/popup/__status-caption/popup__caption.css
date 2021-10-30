@@ -1,0 +1,10 @@
+.popup__status-caption {
+  width: 14.92em;
+  font-weight: 900;
+  font-size: 1.71em;
+  line-height: 1.21;
+  align-self: center;
+  margin: 1.33em, 0 2.5em;
+  text-align: center;
+  color: black;
+}
